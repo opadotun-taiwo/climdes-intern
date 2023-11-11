@@ -1,0 +1,121 @@
+export const Data = [
+  {
+    id: 1,
+    position: "Software Development Intern",
+    company: "Tech Innovations",
+    location: "San Francisco, CA",
+    description:
+      "Join our software development team as an intern and gain hands-on experience in building cutting-edge applications.",
+    requirements: [
+      "Programming skills in Java",
+      "Knowledge of web development",
+    ],
+    duration: "3 months",
+    applyLink: "https://example.com/apply/software-intern",
+    logo: "https://png.pngtree.com/png-vector/20220730/ourmid/pngtree-circle-eco-friendly-logo-symbol-png-image_6093131.png",
+    tag: "Technical",
+  },
+  {
+    id: 2,
+    position: "Marketing Intern",
+    company: "Marketing Solutions Ltd.",
+    location: "New York, NY",
+    description:
+      "Assist our marketing team with creative campaigns and strategies to promote our products.",
+    requirements: [
+      "Excellent communication skills",
+      "Basic understanding of digital marketing",
+    ],
+    duration: "6 months",
+    applyLink: "https://example.com/apply/marketing-intern",
+    logo: "https://png.pngtree.com/png-vector/20220730/ourmid/pngtree-circle-eco-friendly-logo-symbol-png-image_6093131.png",
+    tag: "Non-technical",
+  },
+  {
+    id: 3,
+    position: "Data Science Intern",
+    company: "Data Insights Co.",
+    location: "Seattle, WA",
+    description:
+      "Work on real-world data projects and gain valuable insights into the field of data science.",
+    requirements: [
+      "Strong analytical skills",
+      "Familiarity with data analysis tools",
+    ],
+    duration: "4 months",
+    applyLink: "https://example.com/apply/data-science-intern",
+    logo: "https://png.pngtree.com/png-vector/20220730/ourmid/pngtree-circle-eco-friendly-logo-symbol-png-image_6093131.png",
+    tag: "Technical",
+  },
+  {
+    id: 4,
+    position: "UX Design Intern",
+    company: "Creative Designs Inc.",
+    location: "Los Angeles, CA",
+    description:
+      "Create intuitive and user-friendly designs to enhance the user experience of our products.",
+    requirements: [
+      "Knowledge of UX/UI principles",
+      "Proficiency in design tools",
+    ],
+    duration: "5 months",
+    applyLink: "https://example.com/apply/ux-design-intern",
+    logo: "https://png.pngtree.com/png-vector/20220730/ourmid/pngtree-circle-eco-friendly-logo-symbol-png-image_6093131.png",
+    tag: "Non-technical",
+  },
+  {
+    id: 5,
+    position: "Finance Intern",
+    company: "Financial Insights Corp.",
+    location: "Chicago, IL",
+    description:
+      "Assist the finance team in analyzing financial data and supporting strategic business decisions.",
+    requirements: ["Basic understanding of finance", "Analytical mindset"],
+    duration: "3 months",
+    applyLink: "https://example.com/apply/finance-intern",
+    logo: "https://png.pngtree.com/png-vector/20220730/ourmid/pngtree-circle-eco-friendly-logo-symbol-png-image_6093131.png",
+    tag: "Technical",
+  },
+  {
+    id: 6,
+    position: "IT Support Intern",
+    company: "Tech Support Solutions LLC",
+    location: "Denver, CO",
+    description:
+      "Provide technical support and assistance to our internal IT team.",
+    requirements: ["Basic IT knowledge", "Troubleshooting skills"],
+    duration: "4 months",
+    applyLink: "https://example.com/apply/it-support-intern",
+    logo: "https://png.pngtree.com/png-vector/20220730/ourmid/pngtree-circle-eco-friendly-logo-symbol-png-image_6093131.png",
+    tag: "Technical",
+  },
+  {
+    id: 7,
+    position: "Graphic Design Intern",
+    company: "Creative Designs Inc.",
+    location: "San Diego, CA",
+    description:
+      "Create visually appealing graphics and contribute to the overall design aesthetic of our brand.",
+    requirements: ["Proficiency in graphic design tools", "Creativity"],
+    duration: "3 months",
+    applyLink: "https://example.com/apply/graphic-design-intern",
+    logo: "https://png.pngtree.com/png-vector/20220730/ourmid/pngtree-circle-eco-friendly-logo-symbol-png-image_6093131.png",
+    tag: "Non-technical",
+  },
+  {
+    id: 8,
+    position: "Human Resources Intern",
+    company: "HR Solutions Ltd.",
+    location: "Austin, TX",
+    description:
+      "Assist the HR team with various tasks, including recruitment and employee relations.",
+    requirements: [
+      "Interest in human resources",
+      "Strong communication skills",
+    ],
+    duration: "6 months",
+    applyLink: "https://example.com/apply/hr-intern",
+    logo: "https://png.pngtree.com/png-vector/20220730/ourmid/pngtree-circle-eco-friendly-logo-symbol-png-image_6093131.png",
+    tag: "Non-Technical",
+  },
+];
