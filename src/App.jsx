@@ -3,9 +3,8 @@ import React from 'react'
 import Jobs from '../Components/JobDiv/Jobs'
 import Value from '../Components/ValueDiv/Value'
 import Footer from '../Components/Footer/Footer'
-import NavBar from '../Components/Navbar/Navbar'
 import Hero from '../Components/Hero/Hero'
-import Jobss from '../Components/JobDiv/test'
+import NavBar from '../Components/Navbar/Navbar'
 
 const App = () => {
   return (
